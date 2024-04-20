@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Affärslager\**" />
+    <Compile Remove="Datalager\**" />
+    <Compile Remove="Presentationslager\**" />
+    <EmbeddedResource Remove="Affärslager\**" />
+    <EmbeddedResource Remove="Datalager\**" />
+    <EmbeddedResource Remove="Presentationslager\**" />
+    <None Remove="Affärslager\**" />
+    <None Remove="Datalager\**" />
+    <None Remove="Presentationslager\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Affärslager\Affärslager.csproj" />
+    <ProjectReference Include="..\Entiteter\Entiteter.csproj" />
+  </ItemGroup>
+
+</Project>
