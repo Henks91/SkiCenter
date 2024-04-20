@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\skicenter\Datalager\bin\Debug\net7.0\Datalager.deps.json
+C:\Users\user\source\repos\skicenter\Datalager\bin\Debug\net7.0\Datalager.dll
+C:\Users\user\source\repos\skicenter\Datalager\bin\Debug\net7.0\Datalager.pdb
+C:\Users\user\source\repos\skicenter\Datalager\bin\Debug\net7.0\Entiteter.dll
+C:\Users\user\source\repos\skicenter\Datalager\bin\Debug\net7.0\Entiteter.pdb
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.AssemblyInfo.cs
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.csproj.CopyComplete
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.dll
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\refint\Datalager.dll
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\Datalager.pdb
+C:\Users\user\source\repos\skicenter\Datalager\obj\Debug\net7.0\ref\Datalager.dll
