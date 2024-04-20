@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\skicenter\Entiteter\bin\Debug\net7.0\Entiteter.deps.json
+C:\Users\user\source\repos\skicenter\Entiteter\bin\Debug\net7.0\Entiteter.dll
+C:\Users\user\source\repos\skicenter\Entiteter\bin\Debug\net7.0\Entiteter.pdb
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.AssemblyInfo.cs
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.dll
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\refint\Entiteter.dll
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\Entiteter.pdb
+C:\Users\user\source\repos\skicenter\Entiteter\obj\Debug\net7.0\ref\Entiteter.dll
