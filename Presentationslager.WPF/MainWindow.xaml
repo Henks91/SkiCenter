@@ -1,0 +1,40 @@
+﻿<Window x:Class="PresentationslagerWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationslagerWPF" 
+        xmlns:viewmodels="clr-namespace:PresentationslagerWPF.ViewModels"
+        xmlns:views="clr-namespace:PresentationslagerWPF.Views"
+        mc:Ignorable="d"
+        Title="Bokningssystem" 
+        Height="450" Width="800" 
+        WindowStartupLocation="CenterScreen" 
+        WindowState="Maximized" 
+        >
+    <ContentControl Content ="{Binding CurrentViewModel}">
+        <ContentControl.Resources>
+            <DataTemplate DataType="{x:Type viewmodels:HuvudMenyViewModel}">
+                <views:HuvudMeny/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:LoggaInViewModel}">
+                <views:LoggaInView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:MasterBokningViewModel}">
+                <views:MasterBokningView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:KundhanteringViewModel}">
+                <views:KundhanteringView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:SkidshopViewModel}">
+                <views:SkidshopView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:StatistikViewModel}">
+                <views:StatistikView/>
+            </DataTemplate>
+        </ContentControl.Resources>
+    </ContentControl>
+    <Window.Resources>
+        
+    </Window.Resources>
+</Window>
