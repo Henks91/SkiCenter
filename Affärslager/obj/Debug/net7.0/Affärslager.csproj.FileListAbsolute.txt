@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Affärslager.deps.json
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Affärslager.dll
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Affärslager.pdb
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Datalager.dll
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Entiteter.dll
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Datalager.pdb
+C:\Users\user\source\repos\skicenter\Affärslager\bin\Debug\net7.0\Entiteter.pdb
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.AssemblyInfo.cs
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.csproj.CopyComplete
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.dll
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\refint\Affärslager.dll
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\Affärslager.pdb
+C:\Users\user\source\repos\skicenter\Affärslager\obj\Debug\net7.0\ref\Affärslager.dll
